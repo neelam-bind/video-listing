@@ -38,12 +38,12 @@ async function filterData() {
             
             h3.textContent = video.items.snippet.title;
             
-            a.appendChild(img);                                                 //image me link dalne ke liye
-            div.appendChild(a);                                               
+            div.appendChild(img);                                               
             div.appendChild(h3);
             div.appendChild(h5);
-            
-            video_container.appendChild(div);
+            a.appendChild(div);                                                 //image me link dalne ke liye
+
+            video_container.appendChild(a);
         });
     } else {
         console.log("No videos match your search criteria.");
