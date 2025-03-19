@@ -42,7 +42,7 @@ async function filterData() {
             div.appendChild(a);                                               
             div.appendChild(h3);
             div.appendChild(h5);
-
+            
             video_container.appendChild(div);
         });
     } else {
