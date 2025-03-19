@@ -3,11 +3,35 @@
 ## 🌐 Live Demo
 [View the website](https://your-github-username.github.io/your-repo-name)
 
-## 📌 Features
-- 📹 Fetches videos from YouTube API
-- 🔍 Search functionality to find relevant videos
-- 🎨 Responsive UI with sidebar navigation and search bar
-- 📁 Grid layout for video thumbnails
+📌 Features
+
+📹 Fetches Videos from YouTube API
+
+The website dynamically pulls video data from the YouTube API, displaying relevant videos based on the user's search query.
+
+🔍 Search Functionality
+
+Users can enter keywords into the search bar to find videos matching their interests. The search algorithm filters video titles and tags for relevant results.
+
+🎨 Responsive UI with Sidebar Navigation
+
+A fixed sidebar allows easy navigation between different sections, such as Home, Shorts, Subscriptions, and About.
+
+📁 Grid Layout for Video Thumbnails
+
+The videos are displayed in a structured grid layout, ensuring a visually appealing and organized presentation.
+
+🖼️ Clickable Thumbnails
+
+Each video thumbnail is linked to its respective YouTube page, allowing users to watch the video in a new tab.
+
+🌙 Dark-Themed Sidebar
+
+The sidebar has a dark theme, enhancing the contrast and making navigation smooth and visually appealing.
+
+🔊 Microphone Button for Voice Search (Planned Feature)
+
+Future enhancements may include voice search functionality to make searching even more convenient.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
