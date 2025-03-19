@@ -1,7 +1,7 @@
 # 🎥 YouTube Video Listing
 
 ## 🌐 Live Demo
-[View the website][(https://your-github-username.github.io/your-repo-name](https://neelam-bind.github.io/video-listing/))
+[View the website](https://neelam-bind.github.io/video-listing/))
 
 ## 📌 Features
 
