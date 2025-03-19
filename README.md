@@ -1,8 +1,9 @@
 # 🎥 YouTube Video Listing
 
 ## 🌐 Live Demo
-Github -[View the website](https://neelam-bind.github.io/video-listing/)
-Vercel - https://videolisting.vercel.app/
+- **GitHub Pages:** [View the website](https://neelam-bind.github.io/video-listing/)  
+- **Vercel:** [View the website](https://videolisting.vercel.app/)
+
 
 ## 📌 Features
 
@@ -39,9 +40,4 @@ Vercel - https://videolisting.vercel.app/
 - **API:** YouTube API (via FreeAPI)
 - **Deployment:** GitHub Pages / Vercel
 
-## 🚀 Installation & Setup
 
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-github-username/your-repo-name.git
-cd your-repo-name
