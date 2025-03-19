@@ -1,68 +1,46 @@
-# 🎥 Video Listing Website
+# 🎥 YouTube Video Listing
 
 ## 🌐 Live Demo
-[View the website](https://your-github-username.github.io/your-repo-name)
+[View the website][(https://your-github-username.github.io/your-repo-name](https://neelam-bind.github.io/video-listing/))
 
-📌 Features
+## 📌 Features
 
-📹 Fetches Videos from YouTube API
+### 📹 Fetches Videos from YouTube API
+- The website dynamically pulls video data from the YouTube API.
+- Displays relevant videos based on the user's search query.
 
-The website dynamically pulls video data from the YouTube API, displaying relevant videos based on the user's search query.
+### 🔍 Search Functionality
+- Users can search for videos using keywords.
+- The search filters results based on video titles and tags.
+- No extra API calls are made; filtering happens on the frontend.
 
-🔍 Search Functionality
+### 🎨 Responsive UI with Sidebar Navigation
+- Fixed sidebar for easy navigation.
+- Sections include **Home, Shorts, Subscriptions, and About**.
 
-Users can enter keywords into the search bar to find videos matching their interests. The search algorithm filters video titles and tags for relevant results.
+### 📁 Grid Layout for Video Thumbnails
+- Videos are displayed in a structured grid layout.
+- Ensures a visually appealing and organized presentation.
 
-🎨 Responsive UI with Sidebar Navigation
+### 🖼️ Clickable Thumbnails
+- Each video thumbnail links to its YouTube page.
+- Clicking a video opens it in a new tab.
 
-A fixed sidebar allows easy navigation between different sections, such as Home, Shorts, Subscriptions, and About.
+### 🌙 Dark-Themed Sidebar
+- Enhances contrast for better visibility.
+- Improves navigation and readability.
 
-📁 Grid Layout for Video Thumbnails
-
-The videos are displayed in a structured grid layout, ensuring a visually appealing and organized presentation.
-
-🖼️ Clickable Thumbnails
-
-Each video thumbnail is linked to its respective YouTube page, allowing users to watch the video in a new tab.
-
-🌙 Dark-Themed Sidebar
-
-The sidebar has a dark theme, enhancing the contrast and making navigation smooth and visually appealing.
-
-🔊 Microphone Button for Voice Search (Planned Feature)
-
-Future enhancements may include voice search functionality to make searching even more convenient.
+### 🔊 Microphone Button for Voice Search (Planned Feature)
+- Future updates may include voice search for easier navigation.
 
 ## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
-- YouTube API
-- GitHub Pages / Vercel for Deployment
+- **Frontend:** HTML, CSS, JavaScript
+- **API:** YouTube API (via FreeAPI)
+- **Deployment:** GitHub Pages / Vercel
 
 ## 🚀 Installation & Setup
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/your-github-username/your-repo-name.git
-   cd your-repo-name
-   ```
-2. **Run Locally**
-   - Open `index.html` in a browser
-   - Or use VS Code Live Server
 
-## 🎯 Deployment
-### **GitHub Pages**
-1. Push code to GitHub.
-2. Go to **Settings > Pages**.
-3. Set the source to `main` or `gh-pages`.
-4. Save & wait for deployment.
-
-### **Vercel Deployment**
-1. Install Vercel CLI (if not installed):
-   ```sh
-   npm install -g vercel
-   ```
-2. Deploy using:
-   ```sh
-   vercel
-   ```
-
-
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/your-github-username/your-repo-name.git
+cd your-repo-name
