@@ -41,10 +41,4 @@
    vercel
    ```
 
-## 📝 License
-This project is open-source under the MIT License.
-
----
-
-🔗 **Connect with Me:** [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-github-username)
 
